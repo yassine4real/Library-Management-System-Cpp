@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710025661 source:y:\c++\projects_c++\tp3_ex2\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+
